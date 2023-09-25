@@ -1,0 +1,6 @@
+11.9.2023/19:35:8/https://www.google.com/?gws_rd=ssl
+11.9.2023/19:35:15/https://yandex.com/
+11.9.2023/19:35:22/https://m.facebook.com/?_rdr
+11.9.2023/19:35:30/https://www.instagram.com/
+11.9.2023/19:35:40/https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2F
+11.9.2023/19:35:56/https://www.twitch.tv/ie11-deprecated.html
